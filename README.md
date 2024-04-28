@@ -1,2 +1,37 @@
 # SEM-VI-Projects
-This repository houses the projects made in my 6th sem of Bachelor of Technology (B.Tech) in Electronics and Telecommunication Engineering (EnTC), at Vishwakarma Institute of Technology (VIT, Pune). Subjects of matter: 1. Digital Signal Processing, 2. Embedded Systems Development, 3. Computer Vision, 4. Digital Designs.
+## Subjects of matter: 
+
+
+
+<details>
+  <summary>Digital Signal Processing (DSP)</summary>
+  
+  ### Project:
+      Analysis of H1 Line Spectrum using Pictor Telescope (Horn Antenna)
+  ### Lab Assessments...
+</details>
+
+<details>
+  <summary>Embedded Systems Development (ESD)</summary>
+  
+  ### Project:
+      Inventory Management and Environment Monitoring System
+  ### Lab Assessments...
+</details>
+
+<details>
+  <summary>Computer Vision (CV)</summary>
+  
+  ### Project:
+      Butterfly Classlification in Sahyadri Region
+  ### Lab Assessments...
+</details>
+
+<details>
+  <summary>Digital Design (DD)</summary>
+  
+  ### Project:
+      Design of Double Precision Floating Point Comparator  
+  ### Lab Assessments...
+</details>
+     
