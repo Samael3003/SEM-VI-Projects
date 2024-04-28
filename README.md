@@ -7,7 +7,7 @@
   <summary>Digital Signal Processing (DSP)</summary>
   
   ### Project:
-      Analysis of H1 Line Spectrum using Pictor Telescope (Horn Antenna)
+  Analysis of H1 Line Spectrum using Pictor Telescope (Horn Antenna)
   ### Lab Assessments...
 </details>
 
@@ -15,7 +15,7 @@
   <summary>Embedded Systems Development (ESD)</summary>
   
   ### Project:
-      Inventory Management and Environment Monitoring System
+  Inventory Management and Environment Monitoring System
   ### Lab Assessments...
 </details>
 
@@ -23,7 +23,7 @@
   <summary>Computer Vision (CV)</summary>
   
   ### Project:
-      Butterfly Classlification in Sahyadri Region
+  Butterfly Classlification in Sahyadri Region
   ### Lab Assessments...
 </details>
 
@@ -31,7 +31,7 @@
   <summary>Digital Design (DD)</summary>
   
   ### Project:
-      Design of Double Precision Floating Point Comparator  
+  Design of Double Precision Floating Point Comparator  
   ### Lab Assessments...
 </details>
      
