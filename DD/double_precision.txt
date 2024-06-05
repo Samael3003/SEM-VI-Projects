@@ -1,0 +1,2 @@
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 9142.055 ; gain = 0.000 ; free physical = 449 ; free virtual = 10790
